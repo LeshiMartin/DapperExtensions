@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32611.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SQLQueryBuilder", "DapperQueryBuilder\SQLQueryBuilder.csproj", "{EAC7381D-1925-4E0A-A72B-A73078BA42B1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DapperExtensionsConsoleTester", "DapperExtensionsConsoleTester\DapperExtensionsConsoleTester.csproj", "{8B03F73A-31D6-4975-8B58-E8CAC9E021ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAC7381D-1925-4E0A-A72B-A73078BA42B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAC7381D-1925-4E0A-A72B-A73078BA42B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAC7381D-1925-4E0A-A72B-A73078BA42B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAC7381D-1925-4E0A-A72B-A73078BA42B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B03F73A-31D6-4975-8B58-E8CAC9E021ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B03F73A-31D6-4975-8B58-E8CAC9E021ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B03F73A-31D6-4975-8B58-E8CAC9E021ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B03F73A-31D6-4975-8B58-E8CAC9E021ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0C8A9CF-DBEB-46CF-A5D9-9EDE3CCBE3FB}
+	EndGlobalSection
+EndGlobal
